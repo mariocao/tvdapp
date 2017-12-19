@@ -8,7 +8,7 @@
     "heroku-postbuild": "next build"
   },
   "engines": {
-    "node": "7.10.0"
+    "node": "8.9.1"
   },
   "babel": {
     "presets": [
